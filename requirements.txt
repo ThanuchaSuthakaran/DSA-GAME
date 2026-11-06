@@ -1,0 +1,7 @@
+# Fish Quest – Ocean Adventure Game Dependencies
+# CIS045-3 Distributed Service Architectures Assignment
+
+pygame-ce>=2.5.0
+requests>=2.28.0
+pillow>=10.0.0
+
